@@ -20,7 +20,12 @@
   <a href="https://www.linkedin.com/in/furkansalduz/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.furkansalduz.com.tr" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" width="35" height="35"/>
+  </a>
 </p>
+
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
