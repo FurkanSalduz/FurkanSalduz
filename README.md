@@ -1,16 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007A3D&height=150&section=header&text=Hi👋,%20I'm%20Furkan%20&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </p>
-<h3 align="center"><em>Fullstack Developer | React & Spring Boot</em> 👨‍💻</h3>
+<h3 align="center"><em>Fullstack Developer | React & Spring Boot | NLP Researcher</em> 👨‍💻</h3>
 <p align="center">
-  I am a Fullstack Developer experienced in both frontend and backend,<br/> aiming to produce quality and sustainable solutions by using modern technologies in software development.<br>
-  I develop consistent, scalable applications with React, Spring Boot and relational databases.
+  I am a Fullstack Developer experienced in both frontend and backend,<br/>
+  aiming to produce quality and sustainable solutions using modern technologies in software development.<br/>
+  I develop consistent, scalable applications with React, Spring Boot, relational databases, and currently researching Natural Language Processing (NLP).
 </p>
 <h3 align="center">💼 Collaboration & Contact</h3>
 
 <p align="center">
-  I would be happy to hear from you about projects, collaborations or any software development process.<br/>
-  I am always open to exploring new technologies and teamwork. 👇
+  I would be happy to hear from you about projects, collaborations, or any software development process.<br/>
+  I am always open to exploring new technologies, teamwork, and NLP research. 👇
 </p>
 <p align="center">
   <a href="mailto:f.salduz12@gmail.com">
@@ -48,9 +49,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;
+ 
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007A3D&height=120&section=footer"/>
 </p>
-
-
